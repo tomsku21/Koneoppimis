@@ -1,5 +1,6 @@
 Tein muutoksia ja parannuksia codeprojektin (https://www.codeproject.com/Articles/5282690/AI-Chatbots-With-TensorFlow-js-Improved-Emotion-De)
 tekstistä tunteita tunnistavan chatbotin tutoriaaliin.
+
 Tutoriaalissa modeli tuottaa vain satunnaisia lauseita harjoittamastaan datasta, ja antaa niille arvion tekstin tunteesta, ja kertoo sen kanssa oikean arvon.
 Arvioin, että tutoriaalissa toteutettu malli toimisi tarpeeksi hyvin harjoitusdatan ulkopuolisellakin tekstillä, joten tein muutoksia sen teorian pohjalta.
 
